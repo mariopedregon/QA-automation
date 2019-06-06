@@ -1,0 +1,14 @@
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/stg.test.deps.json
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/stg.test.runtimeconfig.json
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/stg.test.runtimeconfig.dev.json
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/stg.test.dll
+/Users/mariopedregon/Desktop/QAfolder/stg.test/bin/Debug/netcoreapp2.2/stg.test.pdb
+/Users/mariopedregon/Desktop/QAfolder/stg.test/obj/Debug/netcoreapp2.2/stg.test.csprojAssemblyReference.cache
+/Users/mariopedregon/Desktop/QAfolder/stg.test/obj/Debug/netcoreapp2.2/stg.test.csproj.CoreCompileInputs.cache
+/Users/mariopedregon/Desktop/QAfolder/stg.test/obj/Debug/netcoreapp2.2/stg.test.AssemblyInfoInputs.cache
+/Users/mariopedregon/Desktop/QAfolder/stg.test/obj/Debug/netcoreapp2.2/stg.test.AssemblyInfo.cs
+/Users/mariopedregon/Desktop/QAfolder/stg.test/obj/Debug/netcoreapp2.2/stg.test.dll
+/Users/mariopedregon/Desktop/QAfolder/stg.test/obj/Debug/netcoreapp2.2/stg.test.pdb
